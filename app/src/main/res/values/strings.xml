@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TrueFalseQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="warning_text">Are you sure you want to cheat?</string>
+    <string name="show_answer_button">Show answer</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+
+    <string name="question_one">The city Alexandria was named after Alexander the Great?</string>
+    <string name="question_two">After five nominations he received in the Best Director category, Alfred Hitchcock finally won an Academy Award for directing "Psycho"?</string>
+    <string name="question_three">Krypton\'s atomic number is 26?</string>
+    <string name="question_four">The last dynasty in China was the Chou dynasty?</string>
+    <string name="question_five">The first set of Crayola crayons had eight colors?</string>
+    <string name="question_six">King Tut was one of the longest-reigning kings of ancient Egypt?</string>
+    <string name="question_seven">Spiders belong to the "insect" class of animals?</string>
+    <string name="question_eight">The tango originated in Argentina?</string>
+    <string name="question_nine">Veins look blue because the oxygen-depleted blood in them is blue?</string>
+    <string name="question_ten">The Oscar-winning film "Good Will Hunting" (2001) deals with schizophrenia?</string>
+
+
+</resources>
